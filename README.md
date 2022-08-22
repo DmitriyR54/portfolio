@@ -1,5 +1,11 @@
-# project-boilerplate
-My basic setup for web applications 
+# portfolio
+Website with links and description of my portfolio projects 
+
+My socials:
+
+1. E-mail - 45ryirtimd@gmail.com
+2. GitHub - https://github.com/DmitriyR54
+3. Telegram - @dmitriyr54
 
 Used libraries and services:
 
